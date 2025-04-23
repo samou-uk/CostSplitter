@@ -48,3 +48,6 @@ Generates a timestamped `.txt` file showing:
 ### Run the App
 
 python bill_splitter.py
+
+![Screenshot 2025-04-23 003255](https://github.com/user-attachments/assets/d97453d7-2c46-48cd-85d1-c5f29da7ef88)
+![Screenshot 2025-04-23 003222](https://github.com/user-attachments/assets/04541584-b948-49e9-81fa-bb3e3a2a61fb)
